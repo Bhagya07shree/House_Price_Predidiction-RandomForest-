@@ -16,9 +16,10 @@ Removed outliers and normalized the data.
 **📈 Model Training & Evaluation**
 We tested multiple models, and the Random Forest model performed the best:
 
-Model	               MSE	         MAE	      R² Score
-Linear Regression	   3.35e+09	     37887.87	  0.531
-Random Forest	       2.88e+08	     7964.91	  0.96
+Model	                    MSE	           MAE	        R² Score
+Linear Regression	      3.35e+09	     37887.87	       0.531
+Random Forest	          2.88e+08	     7964.91	       0.96
+
 ✅ Random Forest is the best model with an R² score of 0.96, indicating high accuracy.
 
 **📌 Results**
